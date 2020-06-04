@@ -13,3 +13,13 @@ Creates a Shared Services VPC.
 * NAT GW, AZ 2
 
 
+## "Single AZ VPC" Template
+
+Creates a VPC with a single AZ.
+
+* Public Subnet, AZ 1
+* Private Subnet, AZ 1
+* NAT GW, AZ 1
+
+
+
